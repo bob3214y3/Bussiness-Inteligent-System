@@ -1,2 +1,0 @@
-# Bussiness Inteligent System
- 
